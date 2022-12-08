@@ -9,11 +9,34 @@ info: #F3ECB0
 .bg-primary{
     background-color:#F3EFE0;
 }
+.bg-secondary{
+    background-color:#6ECCAF ;
+}
 
 .text-light{
     color: #ADE792;
 }
 
 .text-center{
-    
+    text-align: center;    
+}
+
+.text-right{
+    text-align: right;
+}
+
+.width-100{
+    width: 100px;
+}
+
+.bg-info{
+    background-color: #F3ECB0;
+}
+
+.text-primary{
+    color: #3ca7ff;
+}
+
+.text-green{
+    color: green;
 }
